@@ -1,1 +1,1 @@
-Second
+Second conflict from GIT
